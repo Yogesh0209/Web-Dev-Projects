@@ -33,17 +33,16 @@ Here are my humble beginnings — the pixel-sized bricks of my future empire:
 - Git & GitHub 
 - Chrome DevTools 
 - Brains, patience, and chai 
-
 ---
 
-###  My Learning Roadmap
+### 🗺️ My Learning Roadmap
 
 ```plaintext
- July 2025: HTML Hero Mode
- August 2025: CSS Sorcery Begins 
- September 2025: JavaScript Jutsu 
- October+ : Frontend + Projects + GitHub Domination 
-
+July 2025: HTML Hero Mode  
+August 2025: CSS Sorcery Begins  
+September 2025: JavaScript Jutsu  
+October+: Frontend + Projects + GitHub Domination  
+```  <!-- ✅ This was missing before -->
 
 ---
 
