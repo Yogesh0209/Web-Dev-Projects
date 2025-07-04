@@ -42,24 +42,19 @@ Here are my humble beginnings — the pixel-sized bricks of my future empire:
  July 2025: HTML Hero Mode
  August 2025: CSS Sorcery Begins 
  September 2025: JavaScript Jutsu 
- October+ : Frontend + Projects + GitHub Domination ```
+ October+ : Frontend + Projects + GitHub Domination 
+
 
 ---
 
-Email: ybhadauriya40@gmail.com
+**Email**: ybhadauriya40@gmail.com  
+**Portfolio**: Coming soon... like the next season of my favorite series  
 
 ---
 
-Portfolio: Coming soon... like the next season of my favorite series 
+> Some quotes I like:
+> 
+> “Code like nobody's watching, commit like everyone is.”  
+> “If it works — ship it. If it breaks — explain it was a feature.”
 
----
-
-Some quotes I like * made...
-“Code like nobody's watching, commit like everyone is.”
-“If it works — ship it. If it breaks — explain it was a feature.”
-
----
-
-<p align="center"> Made with love by <strong>Yogesh</strong> <br> <i>Follow my journey, or better yet, join it </i> </p> 
-
----
+<p align="center">Made with love by <strong>Yogesh</strong><br><i>Follow my journey, or better yet, join it</i></p>
