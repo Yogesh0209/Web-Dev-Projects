@@ -1,0 +1,17 @@
+body {
+    background-color: #060606;
+    color: #e0e0e0;
+  }
+  
+  a {
+    color: #90caf9;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  h1, h2 {
+    color: #ffffff;
+  }
