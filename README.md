@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Yogesh Bhadauriya</h1>
-<h3 align="center">A Curious Learner | Computer Science Student | Aspiring Software Developer </h3>
+<h3 align="center">A Curious Learner |  Computer Science Student |  Aspiring Software Developer </h3>
 
 ---
 
@@ -26,7 +26,7 @@ Here are my humble beginnings — the pixel-sized bricks of my future empire:
 
 ---
 
-###  Tools I'm Using (so far)
+###  Tools I'm Using :
 
 - HTML5 
 - VS Code 
@@ -42,7 +42,7 @@ Here are my humble beginnings — the pixel-sized bricks of my future empire:
  July 2025: HTML Hero Mode
  August 2025: CSS Sorcery Begins 
  September 2025: JavaScript Jutsu 
- October+ : Frontend + Projects + GitHub Domination 
+ October+ : Frontend + Projects + GitHub Domination ```
 
  Email: ybhadauriya40@gmail.com
 
@@ -52,4 +52,4 @@ Some quotes I like * made...
 “Code like nobody's watching, commit like everyone is.”
 “If it works — ship it. If it breaks — explain it was a feature.”
 
-<p align="center"> Made with love by <strong>Yogesh</strong> <br> <i>Follow my journey, or better yet, join it </i> </p> ```
+<p align="center"> Made with love by <strong>Yogesh</strong> <br> <i>Follow my journey, or better yet, join it </i> </p> 
