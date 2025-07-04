@@ -1,5 +1,5 @@
-<h1 align="center">Hello, I'm Yogesh Bhadauriya — a Computer Science Student & Aspiring Software Developer</h1>
-<h3 align="center">A Curious Learner | Future Software Developer/Engineering | Currently deep diving into HTML </h3>
+<h1 align="center">Hello, I'm Yogesh Bhadauriya</h1>
+<h3 align="center">A Curious Learner | Computer Science Student | Aspiring Software Developer </h3>
 
 ---
 
