@@ -5,10 +5,10 @@
 
 ## About Me
 
-- 🎯 Currently learning: **HTML** (mastering every single tag like a perfectionist)
-- ⏭️ Next on the list: **CSS** & **JavaScript** (coming soon to a browser near you)
-- 🚀 Motto: “Small but solid — I’d rather build a basic spaceship than crash a fancy one”
-- 🤖 Fun fact: I talk to my code like it’s a person. Sometimes, it even listens
+-  Currently learning: **HTML** (mastering every single tag like a perfectionist)
+-  Next on the list: **CSS** & **JavaScript** (coming soon to a browser near you)
+-  Motto: “Small but solid — I’d rather build a basic spaceship than crash a fancy one”
+-  Fun fact: I talk to my code like it’s a person. Sometimes, it even listens
 
 ---
 
