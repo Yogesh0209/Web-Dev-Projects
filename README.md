@@ -44,9 +44,9 @@ Here are my humble beginnings — the pixel-sized bricks of my future empire:
  September 2025: JavaScript Jutsu 
  October+ : Frontend + Projects + GitHub Domination ```
 
- Email: ybhadauriya40@gmail.com
+Email: ybhadauriya40@gmail.com
 
- Portfolio: Coming soon... like the next season of my favorite series 
+Portfolio: Coming soon... like the next season of my favorite series 
 
 Some quotes I like * made...
 “Code like nobody's watching, commit like everyone is.”
